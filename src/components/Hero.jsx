@@ -16,7 +16,7 @@ export default function Hero() {
           </h1>
 
           <p className="mt-6 max-w-2xl text-lg leading-relaxed text-slate-300">
-            Uma proposta de economia circular que reaproveita caliça processado
+            Uma proposta de economia circular que reaproveita caliça processada
             e madeira reciclada para gerar novos produtos, reduzir descarte e
             criar impacto ambiental e social positivo.
           </p>
@@ -30,10 +30,10 @@ export default function Hero() {
             </a>
 
             <a
-              href="#como-funciona"
+              href="#materiais"
               className="rounded-2xl border border-slate-700 px-6 py-3 font-semibold text-white transition hover:bg-slate-900"
             >
-              Como funciona
+              Materiais necessários
             </a>
           </div>
 
